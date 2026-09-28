@@ -82,9 +82,13 @@ The project is designed as a learning and demonstration application showcasing F
 ---
 
 ## 📱 Screens
-![image alt](https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/login.jpeg)  
-![image alt(https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/signup.jpeg)
-![image alt](https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/user.jpeg) 
+## 📸 Screenshots
+
+<img src="https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/login.jpeg" width="400">
+
+<img src="https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/signup.jpeg" width="400">
+
+<img src="https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/user.jpeg" width="400">
 
 
 ## 🎥 Demo Video
