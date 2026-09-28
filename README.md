@@ -90,10 +90,9 @@ The project is designed as a learning and demonstration application showcasing F
   <img src="https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/user.jpeg" alt="User Screen" width="250"/>
 </p>
 
-
 ## 🎥 Demo Video
 
-[![Demo Video](https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/Demo%20video.mp4)
+▶️ [Click here to watch the Demo Video](https://github.com/SanjogMagar/Getx-Assignment/blob/4c381e15f6e8528c03eb5c06017c6fa0ec62d894/Demo%20video.mp4)
 
 ---
 
